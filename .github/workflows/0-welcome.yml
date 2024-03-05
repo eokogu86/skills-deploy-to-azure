@@ -54,7 +54,7 @@ jobs:
         with:
           fetch-depth: 0 # Let's get all the branches.
 
-      # Update README from step 0 to step 1.
+      # Update README from step 0 to step 11.
       - name: Update to step 1
         uses: skills/action-update-step@v2
         with:
